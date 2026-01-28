@@ -2,7 +2,7 @@
 Weather for the Terminal
 
 
-![alt text](https://github.com/morten1982/ITS-Manager/blob/main/sunfetch.png)
+![alt text](https://github.com/morten1982/sunfetch/blob/main/sunfetch.png)
 
 
 # Description
@@ -17,4 +17,4 @@ The current Weather and Forecast for the Terminal -> using the OpenWeatherMap AP
 # Enjoy !
 
 
-![alt text](https://github.com/morten1982/ITS-Manager/blob/main/sunfetch2.png)
+![alt text](https://github.com/morten1982/sunfetch/blob/main/sunfetch2.png)
