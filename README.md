@@ -20,3 +20,5 @@ you can change the language in the source code if you change the lang = '..' to 
 
 
 ![alt text](https://github.com/morten1982/sunfetch/blob/main/sunfetch.png)
+
+![alt text](https://github.com/morten1982/sunfetch/blob/main/sunfetch3.png)
