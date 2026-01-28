@@ -1,4 +1,4 @@
-program wetter;
+program sunfetch;
 {$mode objfpc}
 
 uses
