@@ -16,9 +16,12 @@ The current Weather and Forecast for the Terminal -> using the OpenWeatherMap AP
  
 # Enjoy !
 
-you can change the language in the source code if you change the lang = '..' to your needs
-
+you can change the language in the source code if you change the lang = '..' to your needs.
 
 ![alt text](https://github.com/morten1982/sunfetch/blob/main/sunfetch.png)
+
+
+or the location LAT = '...' LON = '...' 
+
 
 ![alt text](https://github.com/morten1982/sunfetch/blob/main/sunfetch3.png)
