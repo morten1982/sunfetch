@@ -2,7 +2,7 @@
 Weather for the Terminal
 
 
-![alt text](https://github.com/morten1982/sunfetch/blob/main/sunfetch.png)
+![alt text](https://github.com/morten1982/sunfetch/blob/main/sunfetch2.png)
 
 
 # Description
@@ -19,4 +19,4 @@ The current Weather and Forecast for the Terminal -> using the OpenWeatherMap AP
 you can change the language in the source code if you change the lang = '..' to your needs
 
 
-![alt text](https://github.com/morten1982/sunfetch/blob/main/sunfetch2.png)
+![alt text](https://github.com/morten1982/sunfetch/blob/main/sunfetch.png)
